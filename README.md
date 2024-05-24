@@ -1,0 +1,1 @@
+# stocks-tradin-app-django
